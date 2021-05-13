@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tcouillard
+- 👋 Hi, I’m @tcouillard (Ted)
 - 👀 I’m interested in programming, data management, database management
 - 🌱 I’m currently learning ... Software maintenance!
 - 💞️ I’m looking to collaborate on ...
